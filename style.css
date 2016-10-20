@@ -1,0 +1,154 @@
+body{
+  background-image: url('http://forums.macrumors.com/attachments/simple_wall-wallpaper-2560x1440-jpg.328718/');
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 98%;
+  height: 95vh;
+  color: white;
+  font-family: 'Libre Baskerville', serif;
+}
+
+h1{
+  text-decoration: underline;
+}
+
+a:link {
+    text-decoration: none;
+    color: white;
+}
+
+a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+.screenshot{
+  border: 1px solid white;
+  height: 70%;
+  align-self: flex-start;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+a:active {
+    text-decoration: underline;
+    color: white;
+}
+
+#page-container{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  width: 98%;
+  height: 90vh;
+  border: 2px solid white;
+  text-align: center;
+  margin: 25px;
+}
+
+#name-container{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  height: 400px;
+  width: 640px;
+  border: 1px solid white;
+}
+
+#links{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+a{
+  margin: 10px;
+}
+
+.social-button{
+  margin: 15px;
+  height: 40px;
+  width: 40px;
+}
+
+footer{
+  display: flex;
+  flex-direction: row;
+}
+
+p{
+  padding: 0px 10px 0px 10px;
+}
+
+#message{
+  width: 400px;
+  height: 50px
+}
+
+#contact-div{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: grey;
+  opacity: 0.85;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: flex-start;
+  height: 40vh;
+  width: 60vh;
+}
+
+.contact-message-item{
+  margin: 10px;
+}
+
+#title{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+#project-container{
+  justify-content: space-around;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 80%;
+  width: 80%;
+}
+
+#about-me-container{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 25%;
+  width: 75%;
+
+}
+
+
+.project{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  height: 25%;
+  width: 80%;
+  border: 1px solid white;
+  background-color: grey;
+  opacity: 0.8;
+  text-align: left;
+  padding-left: 8px;
+}
+
+#submit-button{
+  margin-left: 10px
+}
