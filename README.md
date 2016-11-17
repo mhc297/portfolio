@@ -1,14 +1,14 @@
-#H1 Portfolio
+Portfolio
 
-#H2 Landing
+Landing
 ![Landing Page](assets/screenshots/landing.png)
 
-#H3 About
+About
 ![About Page](assets/screenshots/about.png)
 
-#H3 Portfolio
+Portfolio
 ![Portfolio Page](assets/screenshots/portfolio.png)
 
-#H3 Contact
+Contact
 ![Contact Page](assets/screenshots/contact.png)
 
