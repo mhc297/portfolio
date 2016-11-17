@@ -4,9 +4,17 @@ body{
   justify-content: center;
   align-items: center;
   width: 98%;
-  height: 95vh;
-  color: white;
+
+  color: #FAFAFA;
   font-family: 'Libre Baskerville', serif;
+}
+
+#show-body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
 }
 
 h1{
@@ -15,38 +23,43 @@ h1{
 
 a:link {
     text-decoration: none;
-    color: white;
+    color: #FAFAFA;
 }
 
 a:visited {
     text-decoration: none;
-    color: white;
+    color: #FAFAFA;
 }
 
 .screenshot{
-  border: 1px solid white;
-  height: 70%;
+  border: 1px solid #FAFAFA;
+  width: 220px;
   align-self: flex-start;
 }
 
 a:hover {
     text-decoration: underline;
-    color: white;
+    color: #FAFAFA;
 }
 
 a:active {
     text-decoration: underline;
-    color: white;
+    color: #FAFAFA;
+}
+
+.page-break{
+  background-color: white;
+  height: 20vh;
 }
 
 #page-container{
+  height: 90vh;
   display: flex;
   justify-content: center;
   flex-direction: column;
   align-items: center;
   width: 98%;
-  height: 90vh;
-  border: 2px solid white;
+  border: 2px solid #FAFAFA;
   text-align: center;
   margin: 25px;
 }
@@ -58,7 +71,7 @@ a:active {
   align-items: center;
   height: 400px;
   width: 640px;
-  border: 1px solid white;
+  border: 1px solid #FAFAFA;
 }
 
 #links{
@@ -95,7 +108,7 @@ p{
   display: flex;
   justify-content: space-around;
   align-items: center;
-  background-color: grey;
+  background-color: darkslategray;
   opacity: 0.85;
   display: flex;
   justify-content: center;
@@ -142,7 +155,7 @@ p{
   justify-content: center;
   height: 25%;
   width: 80%;
-  border: 1px solid white;
+  border: 1px solid #FAFAFA;
   background-color: grey;
   opacity: 0.8;
   text-align: left;
