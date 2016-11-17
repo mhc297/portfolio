@@ -1,14 +1,14 @@
 Portfolio
 
 Landing
-![Landing Page](assets/screenshots/landing.png)
+![Landing Page](assets/Screenshots/landing.png)
 
 About
-![About Page](assets/screenshots/about.png)
+![About Page](assets/Screenshots/about.png)
 
 Portfolio
-![Portfolio Page](assets/screenshots/portfolio.png)
+![Portfolio Page](assets/Screenshots/portfolio.png)
 
 Contact
-![Contact Page](assets/screenshots/contact.png)
+![Contact Page](assets/Screenshots/contact.png)
 
